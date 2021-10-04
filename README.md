@@ -1,19 +1,18 @@
 <div id="top"></div>
 
 
-<p align="center">[![MIT License][license-shield]][license-url]</p>
 
 
 
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+<div align="left">
+  <a href="https://github.com/adasen">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Pacmen-README</h3>
+  <h3 align="left">Pacmen-README</h3>
 
   
 
@@ -58,7 +57,7 @@ Here's the highlight:
 * Creating Elements dynamically
   
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="left">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -72,15 +71,14 @@ Here are the technologies used in building this project:
 * Bootstrap
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="left">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Please see instructions below on how to use this project. Enjoy!
 
 ### Prerequisites
 
@@ -120,7 +118,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Gweke Adasen - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Gweke Adasen - [@your_twitter](https://twitter.com/adasen)
 
 Project Link: [https://github.com/adasen/PacMen-Exercise](https://github.com/adasen/PacMen-Exercise)
 
