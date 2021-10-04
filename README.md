@@ -116,7 +116,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Gweke Adasen - [@your_twitter](https://twitter.com/adasen)
+Gweke Adasen - [@gweke_adasen](https://twitter.com/adasen)
 
 Project Link: [https://github.com/adasen/PacMen-Exercise](https://github.com/adasen/PacMen-Exercise)
 
